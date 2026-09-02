@@ -167,8 +167,6 @@ A. Landing Page
 
 URL:
 
-/
-
 Hero section:
 
 Title:
